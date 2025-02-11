@@ -31,5 +31,8 @@ Real-Time Communication Protocols: WebSockets, MQTT, or Server-Sent Events (SSE)
 Cloud Services: Firebase, AWS, or Azure for hosting and scalability.
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/dfa6ca76-a478-4299-af09-dac1d677d880)
+![Image](https://github.com/user-attachments/assets/7643237f-177c-4b6a-8b30-a0730c624b1a)
+![Image](https://github.com/user-attachments/assets/9c30110c-e3ef-4afd-be6b-243a73052652)
 
 
